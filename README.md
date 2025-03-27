@@ -1,7 +1,4 @@
 
-Conducted research on CNNs RNNs and LSTMs using Coursera’s Nueral Networks and Deep learning
-course. This resulted in me building foundational knowledge to understand more sophisticated models like
-BERT and BART.
 
 Researched and tested performance BERT, BART and T5 models as zero-shot sequence classifiers.
 Communicated my findings to my team and lead a discussion with members coming to a collaborative
