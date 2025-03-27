@@ -4,7 +4,7 @@ Researched and tested performance BERT, BART and T5 models as zero-shot sequence
 Communicated my findings to my team and lead a discussion with members coming to a collaborative
 decision on what model to fine tune.
 
-Fine tuned A DeBERTA model for a sequence classifier, creating the companies first in house model. Fine
+Fine tuned A roBERTa model for a sequence classifier, creating the companies first in house model. Fine
 tuning with Python, Pytorch, Hugging Face, and generating synthetic train and test data using ChatGPT, this
 resulting in a fine tuned model with a 92% accuracy of classifying prompts into industries. 
 
